@@ -1,0 +1,16 @@
+Flask
+Flask-CORS
+Flask-Login
+Flask-SQLAlchemy
+Werkzeug
+googletrans==4.0.0-rc1
+pandas
+matplotlib
+seaborn
+plotly
+numpy
+openai-whisper
+SpeechRecognition
+PyAudio
+pyttsx3
+python-dotenv
