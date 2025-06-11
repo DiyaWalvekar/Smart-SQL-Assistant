@@ -24,7 +24,7 @@
 ### 🔁 Step 1: Clone This Repo
 
 ```bash
-git clone https://github.com/yourusername/smart-sql-assistant.git
+git clone https://github.com/DiyaWalvekar/Smart-SQL-Assistant.git
 cd smart-sql-assistant
 
 ### 🧪 Step 2: Set Up Virtual Environment
